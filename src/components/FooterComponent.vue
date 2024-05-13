@@ -10,7 +10,7 @@
 <!--<button class="button is-primary">Primary button</button>-->
 
 <p class="primeiroParagrafo">
-Website to track the time of your activities. Developed using Vue, TypeScript, Css-Bulma and Fontawesome. It will be available on an app, developed using React Native. The website will be hosted on Azure and Hostgator. APIs will be developed on ASP .Net and database in the SQL server, and also will be temporary hosted on azure. Open-source material, avaible on github.
+Website to track the time of your activities. Developed using Vue, TypeScript, Css-Bulma and Fontawesome. It will be available on an app, developed using React Native. The website will be hosted on Azure, Github Pages and Heroku. APIs will be developed on ASP .Net using Bearer Token and user Identity.The database will be SQL server, and also will be temporary hosted on azure. Open-source material, avaible on github.
 </p>
 <p class="button is-patreon segundoParagrafo">
     Created by: Marcos Augusto
